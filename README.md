@@ -5,7 +5,7 @@
 ## 📋 Sobre o Projeto
 Este repositório apresenta um estudo estratégico sobre como a Inteligência Artificial reconfigurará a economia global até o ano de **2030**. O projeto foi desenvolvido utilizando o **NotebookLM** da Google como ferramenta de análise, síntese e curadoria de fontes de alto valor.
 
-Como acadêmico de **Análise e Desenvolvimento de Sistemas (ADS)**, este trabalho explora a intersecção entre inovação tecnológica, produtividade e impactos socioeconômicos, consolidando o uso de IAs generativas como ferramentas de aprendizagem ativa.
+Este trabalho explora a intersecção entre inovação tecnológica, produtividade e impactos socioeconômicos, consolidando o uso de IAs generativas como ferramentas de aprendizagem ativa.
 
 > [!IMPORTANT]
 > **Acesse o Trabalho Consolidado no NotebookLM:**  *[https://l1nk.dev/8fy0gou]*
