@@ -8,7 +8,7 @@ Este repositório apresenta um estudo estratégico sobre como a Inteligência Ar
 Este trabalho explora a intersecção entre inovação tecnológica, produtividade e impactos socioeconômicos, consolidando o uso de IAs generativas como ferramentas de aprendizagem ativa.
 
 > [!IMPORTANT]
-> **Acesse o Trabalho Consolidado no NotebookLM:**  *[https://l1nk.dev/8fy0gou]*
+> **Acesse o Trabalho Consolidado no NotebookLM:**  *[https://notebooklm.google.com/notebook/072a8ed8-dfd8-4e85-8f3c-b1bb6ef55aa4]*
 
 ---
 
